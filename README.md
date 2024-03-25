@@ -5,7 +5,7 @@
 ## DEMO
 
 `node index.js --action list`
-
+![alt text](<./images/list(1).png> "list(1)")
 `node index.js --action get`
 
 `node index.js --action add`
