@@ -1,6 +1,6 @@
 # goit-node-hw-01
 
-"Contacts" console app
+"Contacts" CLI app
 
 ## DEMO
 
