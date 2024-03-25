@@ -6,11 +6,14 @@
 
 `node index.js --action list`
 ![alt text](<./images/list(1).png> "list(1)")
+![alt text](<./images/list(2).png> "list(2)")
 `node index.js --action get`
-
+![alt text](./images/get.png "get")
 `node index.js --action add`
-
+![alt text](<./images/add(1).png> "add(1)")
+![alt text](<./images/add(2).png> "add(2)")
 `node index.js --action remove`
+![alt text](./images/remove.png "remove")
 
 ## Technologies used
 
